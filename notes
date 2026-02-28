@@ -1,0 +1,11 @@
+S1 = int(input())
+S2 = int(input())
+S3 = int(input())
+S4 = int(input())
+S5 = int(input())
+
+D = int(input()) # event’s difficulty factor
+
+
+FinalResult = arr * D
+print(FinalResult)
